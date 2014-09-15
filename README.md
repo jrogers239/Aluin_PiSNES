@@ -14,6 +14,7 @@ Installation
 
 Clone this repo into the destination directory (e.g., /opt/retropie/emulators/aluin-pisnes/) and run 'make'. For Retropie, be sure to modify the Super Nintendo section in /etc/emulationstation/es_systems.cfg to point to the snes9x binary created with this code. See below for an example.
 
+```
 <system>
     <fullname>Super Nintendo</fullname>
     <name>snes</name>
@@ -24,5 +25,5 @@ Clone this repo into the destination directory (e.g., /opt/retropie/emulators/al
     <platform>snes</platform>
     <theme>snes</theme>
   </system>
- 
+```
 
