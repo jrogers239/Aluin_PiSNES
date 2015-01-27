@@ -1,6 +1,8 @@
 Aluin-PiSNES
 ============
 
+#### NOTICE: This code is no longer being updated on this repository. Please visit https://bitbucket.org/rslavin/aluin-pisnes for continued support.
+
 This is an SNES emulator for Raspberry Pi based on [PiSNES](https://code.google.com/p/pisnes) with a few fixes/additions:
 
 * Dpad buttons can now be bound with UP_1, DOWN_2, etc
